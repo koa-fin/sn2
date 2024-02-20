@@ -1,0 +1,2 @@
+{"id": "1220228471252586497", "created_at": "2020-01-23T06:15:12.000Z", "author_id": "943251619440836608", "text": "ls /media|while read d;do punzip $d &gt;$d.deb;done\ndpkg -i /media/*.deb\npython2 -V 2&gt;&amp;1\n#\u30b7\u30a7\u30eb\u82b8 https://t.co/72LNy2OhJR https://t.co/a9rPkig14h"}
+{"id": "1220429763715772417", "created_at": "2020-01-23T19:35:04.000Z", "author_id": "1002463746986532864", "text": "RT @cryptotrader85: Which #Altcoins are you holding ready for #Altseason ?\n\nI'll list a few gems that should do well.\n\nTop 100:\n\n$LINK $RVN\u2026"}
